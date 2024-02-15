@@ -8,3 +8,13 @@ Project Goals:
 To enhance efficiency and accuracy in meter reading through automation.
 To simplify the management and maintenance of meter reading devices and data.
 To minimize manual input errors, thereby improving data reliability and operational efficiency.
+
+Project Description
+
+Core Components
+
+1. Hardware Design: Custom camera modules and corresponding circuit board designs optimized for high-precision meter reading operations.
+2. Casing Design: Weatherproof and dustproof casing to ensure stable operation in various environments.
+3. Embedded Source Code: Optimized code for specific hardware, ensuring efficient and accurate OCR meter reading processes.
+4. OCR Artificial Intelligence Algorithm: Utilizes the latest machine learning technologies to recognize numbers and texts across various fonts and backgrounds, enhancing the accuracy of meter readings.
+5. Backend and Frontend Source Code: A complete system management interface featuring data display, device management, and data analysis functionalities.
